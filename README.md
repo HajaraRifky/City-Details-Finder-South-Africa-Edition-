@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="0; URL=https://hajararifky.github.io/finalCapstone/mine.html">
+
 <h1>Project Name - City Details using API(South Africa)</h1>
 
 <h2 id="content">Table of contents</h2>
